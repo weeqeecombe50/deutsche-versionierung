@@ -4,7 +4,7 @@ Vielen Dank für Ihr Interesse an Beiträgen zu _Deutsche Versionierung_! Bitte 
 
 ## Wie man beiträgt
 1. Forken Sie das Repository.
-2. Erstellen Sie einen neuen Branch (`git checkout -b feature/feature-name`).
+2. Erstellen Sie einen neuen Branch (`git checkout -b feature/feature-name` oder `git checkout -b bugfix/bug-name`).
 3. Nehmen Sie Ihre Änderungen vor und committen Sie sie (`git commit -m 'Fügen Sie eine neue Funktion hinzu'`).
 4. Pushen Sie den Branch (`git push origin feature/feature-name`).
 5. Erstellen Sie einen Pull-Request.
