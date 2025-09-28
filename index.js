@@ -1,3 +1,3 @@
-console.log('Willkommen zu Deutsche Versionierung!');
+console.log('Willkommen zur deutschen Version!');
 
 // Weitere Logik für das Hauptprogramm wird hier hinzugefügt.
