@@ -1,3 +1,3 @@
-console.log('Willkommen zur deutschen Version des Programms!');
+console.log('Welcome to the English version of the program!');
 
-// Weitere Logik für das Hauptprogramm wird hier hinzugefügt.
+// Further logic for the main program will be added here.
