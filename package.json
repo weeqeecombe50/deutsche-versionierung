@@ -1,7 +1,7 @@
 {
   "name": "deutsche-versionierung",
   "version": "1.0.0",
-  "description": "Tool zur Verwaltung von Dateien und Versionskontrolle in deutschen Projekten.",
+  "description": "Tool zur Verwaltung von Dateien und Versionskontrolle für deutsche Projekte.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
