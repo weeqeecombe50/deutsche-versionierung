@@ -5,6 +5,8 @@ const command = process.argv[2];
 if (command === 'start') {
     console.log('Versioning has started...');
     // Add more commands for versioning here.
+} else if (command === 'stop') {
+    console.log('Versioning has stopped.');
 } else {
     console.log('Unknown command:', command);
 }
