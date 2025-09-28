@@ -12,3 +12,4 @@ Vielen Dank für Ihr Interesse an Beiträgen zu _Deutsche Versionierung_! Bitte 
 ## Anforderungen
 - Beiträge müssen den Styleguide dieses Projekts folgen.
 - Stellen Sie sicher, dass der Code getestet wird.
+- Verfassen Sie klare und prägnante Commit-Nachrichten.
