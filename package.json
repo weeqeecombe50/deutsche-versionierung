@@ -1,0 +1,13 @@
+{
+  "name": "deutsche-versionierung",
+  "version": "1.0.0",
+  "description": "Ein Tool zur effektiven Verwaltung von Dateien und Versionskontrolle in deutschen Softwareprojekten.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dv": "node ./cli.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
