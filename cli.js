@@ -3,8 +3,8 @@ const { exec } = require('child_process');
 const command = process.argv[2];
 
 if (command === 'start') {
-    console.log('Versionierung gestartet...');
-    // Fügen Sie hier weitere Befehle zur Versionierung hinzu.
+    console.log('Versioning has started...');
+    // Add more commands for versioning here.
 } else {
-    console.log('Unbekannter Befehl:', command);
+    console.log('Unknown command:', command);
 }
